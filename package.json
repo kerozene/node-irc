@@ -37,6 +37,7 @@
   ],
   "dependencies": {
     "underscore": "latest",
+    "caller-id": "latest",
     "irc-colors": "^1.1.0"
   },
   "optionalDependencies": {
