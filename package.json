@@ -36,13 +36,13 @@
     }
   ],
   "dependencies": {
-    "underscore": "latest",
+    "lodash": "latest",
     "caller-id": "latest",
     "irc-colors": "^1.1.0"
   },
   "optionalDependencies": {
     "iconv": "~2.1.6",
-    "node-icu-charset-detector": "~0.1.2"
+    "node-icu-charset-detector": "latest"
   },
   "devDependencies": {
     "ansi-color": "0.2.1",
