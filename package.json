@@ -36,7 +36,7 @@
     }
   ],
   "dependencies": {
-    "lodash": "latest",
+    "lodash": "3.10.1",
     "caller-id": "latest",
     "irc-colors": "^1.1.0"
   },
